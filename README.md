@@ -11,7 +11,7 @@ I have experience using Python, Power BI, SQL, Excel, and R.
 [Bike-Share Membership](https://github.com/leenoah390/coursera-case-studies/blob/main/Case%20Study%201%20City%20Bikes.md) (Jul 2025)\
 Created a Power BI report to track ride-share membership trends in Chicago for a bike-share company over the course of a year. Also made recommendations on how to increase membership counts and to introduce new tiers of membership.
 
-[How do Users Belabeat?](https://github.com/leenoah390/coursera-case-studies/blob/main/Case%20Study%202%20Bellabeat.ipynb) (Jun 2025)\
+[How do Users Bellabeat?](https://github.com/leenoah390/coursera-case-studies/blob/main/Case%20Study%202%20Bellabeat.ipynb) (Jun 2025)\
 Using data from Bellabeat, a smart device company catered towards women and their health, I created a report with Python (via Jupyter Notebooks) to tracks health trends of women using such devices. With such findings, recommendations on marketing and how to encourage more physical activity were written.
 
 [Tidy Tuesday](https://github.com/leenoah390/tidytuesday_practice) (2025)\
